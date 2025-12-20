@@ -1,4 +1,4 @@
-# Secret Auction
+guess me baby
 
 Encrypted bidding on blockchain. Your bids are secret until auction ends.
 
